@@ -1,1 +1,1 @@
-# jjyps
+# Team JJYPS's project
